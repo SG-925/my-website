@@ -5,4 +5,5 @@ I am hoping to **Showcase** my skills
 
 ## Preview
 
-![Website Preview](https://cdn.hackclub.com/019e6551-824c-7537-9d06-9ef68e294fd2/screenshot.png)
+<img width="800" height="770" alt="image" src="https://github.com/user-attachments/assets/b5124ba0-52c6-4ca6-8de1-4271d8e1c8c0" />
+
